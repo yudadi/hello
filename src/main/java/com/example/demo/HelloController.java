@@ -11,6 +11,6 @@ public class HelloController {
     public String Hello() {
         Date date = new Date();
         System.out.println(date);
-        return "Hello SpringBoot!";
+        return "Hello SpringBoothaha!";
     }
 }
